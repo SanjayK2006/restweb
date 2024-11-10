@@ -243,7 +243,7 @@ footer {
 
 ![Screenshot 2024-10-26 084839](https://github.com/user-attachments/assets/5407b7bd-2a0b-4129-a649-a0a248b63e92)
 
-![Screenshot (69)](https://github.com/user-attachments/assets/1d864db1-bef4-4dc0-bef0-7ac7204ae2d4)
+![Screenshot (69)](https://github.com/user-attachments/assets/4d8ef5a7-5dd8-494d-bba0-157a50ccf66d)
 
 ![Screenshot (69)](https://github.com/user-attachments/assets/f17968fa-accc-4dcf-baa5-b9d33fdc347c)
 
